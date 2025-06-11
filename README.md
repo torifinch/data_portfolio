@@ -48,12 +48,6 @@
   <a href="#"><img src="https://drive.google.com/uc?export=view&id=1tLWbC6yUSfAwl6mI6z7NWjaauAjQ25I6" width="30%" /></a>
 </p>
 
-<ul>
-  <li><strong>Spotify Forecasting</strong> – Time-series prediction using XGBoost & Tableau</li>
-  <li><strong>Grocery Sales Forecast</strong> – Multi-store sales model in a Streamlit app</li>
-  <li><strong>Fashion MNIST + ResNet50</strong> – Transfer learning for image classification</li>
-</ul>
-
 ---
 
 ##  Tech Stack
@@ -70,7 +64,7 @@
 
 -  [Email Me](mailto:victoriafinchdata@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/torifinch/)
--  [Tableau](https://notion.site/your-site)
+-  [Tableau](https://public.tableau.com/app/profile/torifinch/vizzes)
 
 ---
 
